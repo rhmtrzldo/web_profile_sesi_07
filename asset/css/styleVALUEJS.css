@@ -117,7 +117,7 @@ section#box-profile {
 	width: 200px;
 	height: 200px;
 	border-radius: 300px;
-	/* float: left; */
+	float: left;
 	top: 25px;
 	margin-left: 40px;
 }
@@ -134,7 +134,7 @@ section#box-profile {
 	position: relative;
 	width: 400px;
 	display: inline-block;
-	/* float: left; */
+	float: left;
 	top: 50px;
 	margin-left: 30px;
 	font-family: "Helvetica", sans-serif;
@@ -157,7 +157,7 @@ section#box-profile {
 .information {
 	position: relative;
 	display: inline-block;
-	/* float: left; */
+	float: left;
 	font-family: "Helvetica", sans-serif;
 	top: 45px;
 	margin-left: 30px;
